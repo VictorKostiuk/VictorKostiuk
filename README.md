@@ -1,4 +1,5 @@
-![Victor's GitHub Banner](./assets/GitHubHeader.png)
+![Header](./github-header-image.png)
+
 <h1 align="center">Hi there, I'm Victor! 👋</h1>
 
 ### 🧰 Languages and Tools:
