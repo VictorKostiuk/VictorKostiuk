@@ -8,8 +8,5 @@
 #
 
 ### 📊 Stats:
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorkostiuk&show_icons=true&locale=en&compact=true" alt="victorkostiuk" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorkostiuk&show_icons=true&theme=gruvbox&border_radius=4.5" alt="victorkostiuk" /></p>
 
